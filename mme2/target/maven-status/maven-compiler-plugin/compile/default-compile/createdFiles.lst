@@ -1,0 +1,13 @@
+shmmy/ntua/gr/mme2/model/User.class
+shmmy/ntua/gr/mme2/controller/RestDocumentController.class
+shmmy/ntua/gr/mme2/dao/CategoryDaoImpl.class
+shmmy/ntua/gr/mme2/model/METADATA.class
+shmmy/ntua/gr/mme2/dao/CategoryDao.class
+shmmy/ntua/gr/mme2/controller/LoginController.class
+shmmy/ntua/gr/mme2/controller/DocumentController.class
+shmmy/ntua/gr/mme2/dao/DocumentDaoImpl.class
+shmmy/ntua/gr/mme2/service/DocumentService.class
+shmmy/ntua/gr/mme2/dao/DocumentDao.class
+shmmy/ntua/gr/mme2/service/CategoryService.class
+shmmy/ntua/gr/mme2/model/Category.class
+shmmy/ntua/gr/mme2/model/UserRole.class
