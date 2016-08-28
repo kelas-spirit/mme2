@@ -1,3 +1,3 @@
 # mme2
-News Generator (Not finished yet!!!!!!!!)
+News Generator 
 ... with Spring (mvc,security), jinq/jpa, Angularjs 
